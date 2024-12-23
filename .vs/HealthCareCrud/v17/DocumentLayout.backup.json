@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\HealthCareCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7525359-78DB-42E3-931D-1CDE7BB1C332}|HealthCareCrud\\HealthCareCrud.csproj|h:\\healthcarecrud\\healthcarecrud\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7525359-78DB-42E3-931D-1CDE7BB1C332}|HealthCareCrud\\HealthCareCrud.csproj|solutionrelative:healthcarecrud\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7525359-78DB-42E3-931D-1CDE7BB1C332}|HealthCareCrud\\HealthCareCrud.csproj|h:\\healthcarecrud\\healthcarecrud\\models\\patienthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7525359-78DB-42E3-931D-1CDE7BB1C332}|HealthCareCrud\\HealthCareCrud.csproj|solutionrelative:healthcarecrud\\models\\patienthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7525359-78DB-42E3-931D-1CDE7BB1C332}|HealthCareCrud\\HealthCareCrud.csproj|h:\\healthcarecrud\\healthcarecrud\\data\\patientdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7525359-78DB-42E3-931D-1CDE7BB1C332}|HealthCareCrud\\HealthCareCrud.csproj|solutionrelative:healthcarecrud\\data\\patientdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7525359-78DB-42E3-931D-1CDE7BB1C332}|HealthCareCrud\\HealthCareCrud.csproj|h:\\healthcarecrud\\healthcarecrud\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7525359-78DB-42E3-931D-1CDE7BB1C332}|HealthCareCrud\\HealthCareCrud.csproj|solutionrelative:healthcarecrud\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7525359-78DB-42E3-931D-1CDE7BB1C332}|HealthCareCrud\\HealthCareCrud.csproj|h:\\healthcarecrud\\healthcarecrud\\views\\patient\\getallpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7525359-78DB-42E3-931D-1CDE7BB1C332}|HealthCareCrud\\HealthCareCrud.csproj|solutionrelative:healthcarecrud\\views\\patient\\getallpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7525359-78DB-42E3-931D-1CDE7BB1C332}|HealthCareCrud\\HealthCareCrud.csproj|h:\\healthcarecrud\\healthcarecrud\\views\\patient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7525359-78DB-42E3-931D-1CDE7BB1C332}|HealthCareCrud\\HealthCareCrud.csproj|solutionrelative:healthcarecrud\\views\\patient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7525359-78DB-42E3-931D-1CDE7BB1C332}|HealthCareCrud\\HealthCareCrud.csproj|h:\\healthcarecrud\\healthcarecrud\\views\\patient\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7525359-78DB-42E3-931D-1CDE7BB1C332}|HealthCareCrud\\HealthCareCrud.csproj|solutionrelative:healthcarecrud\\views\\patient\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7525359-78DB-42E3-931D-1CDE7BB1C332}|HealthCareCrud\\HealthCareCrud.csproj|h:\\healthcarecrud\\healthcarecrud\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7525359-78DB-42E3-931D-1CDE7BB1C332}|HealthCareCrud\\HealthCareCrud.csproj|solutionrelative:healthcarecrud\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientHistory.cs",
+              "DocumentMoniker": "H:\\HealthCareCrud\\HealthCareCrud\\Models\\PatientHistory.cs",
+              "RelativeDocumentMoniker": "HealthCareCrud\\Models\\PatientHistory.cs",
+              "ToolTip": "H:\\HealthCareCrud\\HealthCareCrud\\Models\\PatientHistory.cs",
+              "RelativeToolTip": "HealthCareCrud\\Models\\PatientHistory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:18:26.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "H:\\HealthCareCrud\\HealthCareCrud\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HealthCareCrud\\Models\\Patient.cs",
+              "ToolTip": "H:\\HealthCareCrud\\HealthCareCrud\\Models\\Patient.cs",
+              "RelativeToolTip": "HealthCareCrud\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:03:44.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientDbContext.cs",
+              "DocumentMoniker": "H:\\HealthCareCrud\\HealthCareCrud\\Data\\PatientDbContext.cs",
+              "RelativeDocumentMoniker": "HealthCareCrud\\Data\\PatientDbContext.cs",
+              "ToolTip": "H:\\HealthCareCrud\\HealthCareCrud\\Data\\PatientDbContext.cs",
+              "RelativeToolTip": "HealthCareCrud\\Data\\PatientDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:02:04.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllPatient.cshtml",
+              "DocumentMoniker": "H:\\HealthCareCrud\\HealthCareCrud\\Views\\Patient\\GetAllPatient.cshtml",
+              "RelativeDocumentMoniker": "HealthCareCrud\\Views\\Patient\\GetAllPatient.cshtml",
+              "ToolTip": "H:\\HealthCareCrud\\HealthCareCrud\\Views\\Patient\\GetAllPatient.cshtml",
+              "RelativeToolTip": "HealthCareCrud\\Views\\Patient\\GetAllPatient.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T14:35:03.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "H:\\HealthCareCrud\\HealthCareCrud\\Views\\Patient\\Delete.cshtml",
+              "RelativeDocumentMoniker": "HealthCareCrud\\Views\\Patient\\Delete.cshtml",
+              "ToolTip": "H:\\HealthCareCrud\\HealthCareCrud\\Views\\Patient\\Delete.cshtml",
+              "RelativeToolTip": "HealthCareCrud\\Views\\Patient\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T14:27:26.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "H:\\HealthCareCrud\\HealthCareCrud\\Views\\Patient\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HealthCareCrud\\Views\\Patient\\Edit.cshtml",
+              "ToolTip": "H:\\HealthCareCrud\\HealthCareCrud\\Views\\Patient\\Edit.cshtml",
+              "RelativeToolTip": "HealthCareCrud\\Views\\Patient\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T14:12:31.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "H:\\HealthCareCrud\\HealthCareCrud\\Views\\Patient\\Create.cshtml",
+              "RelativeDocumentMoniker": "HealthCareCrud\\Views\\Patient\\Create.cshtml",
+              "ToolTip": "H:\\HealthCareCrud\\HealthCareCrud\\Views\\Patient\\Create.cshtml",
+              "RelativeToolTip": "HealthCareCrud\\Views\\Patient\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T04:09:26.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "H:\\HealthCareCrud\\HealthCareCrud\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "HealthCareCrud\\Controllers\\PatientController.cs",
+              "ToolTip": "H:\\HealthCareCrud\\HealthCareCrud\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "HealthCareCrud\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAwEwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:44:48.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 67,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
